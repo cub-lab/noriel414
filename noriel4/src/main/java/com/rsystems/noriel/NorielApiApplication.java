@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NorielApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(NorielApiApplication.class, args);
+        SpringApplication.run(NorielApiApplication.class, args); 
+        //zxxzxz
     }
 
 }
